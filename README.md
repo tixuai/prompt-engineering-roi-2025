@@ -3,7 +3,7 @@
 **Author:** [Tixu.ai Research Unit](https://tixu.ai)  
 **Publication Date:** October 28, 2025  
 **Version:** 1.0.0  
-**DOI:** *[DOI badge from Zenodo will be placed here after the first release]*
+[**DOI:** *[DOI badge from Zenodo will be placed here after the first release]*](https://doi.org/10.5281/zenodo.17477036)
 
 ---
 
